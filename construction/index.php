@@ -688,6 +688,8 @@
 lightGallery(document.querySelector('.projects .box-container'));
 
 </script>
-
+<script>
+lightGallery(document.querySelector('.projects .box-container'));
+</script>
 </body>
 </html>
